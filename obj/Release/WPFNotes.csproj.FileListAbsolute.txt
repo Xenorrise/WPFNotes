@@ -1,0 +1,16 @@
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\bin\Release\WPFNotes.exe.config
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\bin\Release\WPFNotes.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\bin\Release\WPFNotes.pdb
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.csproj.AssemblyReference.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\MainWindow.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\App.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes_MarkupCompile.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes_MarkupCompile.lref
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\MainWindow.baml
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.g.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.Properties.Resources.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.csproj.GenerateResource.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.csproj.CoreCompileInputs.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotes\WPFNotes\obj\Release\WPFNotes.pdb
