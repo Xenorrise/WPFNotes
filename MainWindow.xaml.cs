@@ -115,7 +115,7 @@ namespace WPFNotes
             List<string> allLines = new List<string>();
             foreach(Note item in ListOfNotes.Items) 
             {
-                allLines.Add(item.Title);
+                allLines.Add("Ʊ" + item.Title);
                 allLines.Add(item.Time);
                 allLines.Add(item.Content);
             }
@@ -130,9 +130,17 @@ namespace WPFNotes
             {
                 ListOfNotes.Items.Clear();
                 string[] lines = File.ReadAllLines(filePath);
-                for (int i = 0; i < lines.Length; i += 3)
+                for (int i = 0; i < lines.Length;)
                 {
-                    ListOfNotes.Items.Add(new Note() { Title = lines[i], Time = lines[i + 1], Content = lines[i + 2] });
+                    Note newNote = new Note() { Title = lines[i].Substring(1), Time = lines[i + 1], Content = lines[i + 2] };
+                    for (i += 3; i < lines.Length; i++)
+                    {
+                        if (lines[i][0] != 'Ʊ')
+                            newNote.Content += "\n" + lines[i];
+                        else
+                            break;
+                    }
+                    ListOfNotes.Items.Add(newNote);
                 }
             }
         }
